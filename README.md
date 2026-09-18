@@ -1,4 +1,4 @@
-# 🛡️ AI Security Agent — Web & React Application
+# AI Agent With Shell & RAG
 
 An autonomous, interactive **AI Security Chatbot** with **direct shell execution**, **dynamic model selection**, and a **local RAG knowledge base** with drag-and-drop file ingestion (PDFs, source code, network logs, security reports, configs).
 
